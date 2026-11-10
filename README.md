@@ -1,21 +1,22 @@
-<img src="assets/vezo-gameboy.svg" alt="Vezo, systems programmer. A Game Boy-style pixel scene of granite hills, acacia trees and a moon." width="100%" />
+<div align="center">
 
-I like computers, particularly the parts of computing that most people don't have to think about.
+<img src="assets/hero.svg" alt="Vezo, systems programmer. A Game Boy style pixel scene of granite hills and acacia trees: a green sun by day, a blue moon and stars at night." width="720" />
 
-I'm interested in how software works underneath its abstractions, from memory management and operating systems to graphics rendering and game engines. I enjoy building things from scratch, experimenting with different approaches, and occasionally making things more complicated than necessary just to understand them. There's something satisfying about knowing not just what works, but why it works.
+<img src="assets/dialog.svg" alt="Vezo: I like the parts of computers most people never think about. So I build things from scratch, just to see why they work." width="720" />
 
-Based in Eswatini, studying at UNESWA.
+<img src="assets/player.svg" alt="Player 1: Vezo. Class: systems programmer. Home: Eswatini. School: UNESWA. Likes Fate, Frieren, Naruto, Re:Zero, Mushoku Tensei, Tokyo Ghoul and game music." width="720" />
 
-```
-0000-3FFF  languages   Rust, Zig, C, C++, Python, Kotlin, JavaScript, GLSL
-4000-7FFF  building    an NES emulator in Rust, a Game Boy one next,
-                       an operating system, a language and the VM under it
-8000-9FFF  graphics    raycasting, software rendering, shaders
-A000-BFFF  offline     Fate, Frieren, Naruto, Re:Zero, Mushoku Tensei,
-                       Tokyo Ghoul, and game soundtracks
-FF00-FF7F  io          see below
-```
+<img src="assets/cartridges.svg" alt="Select game: the languages I build with, drawn as game cartridges. Rust, Zig, C, C++, Python, Kotlin, JavaScript and GLSL." width="720" />
 
-My old repositories are private now. This is a clean start, and the new ones will show up here as I write them.
+<img src="assets/making.svg" alt="Making: an NES emulator in Rust, a Game Boy emulator next, an operating system, a programming language and its virtual machine, and 3D raycasting." width="720" />
 
-[Twitter](https://twitter.com/stedeus) · [Instagram](https://instagram.com/deusfps) · [YouTube](https://www.youtube.com/c/33deus) · [Spotify](https://open.spotify.com/user/31gp3ekfbpke5il7w3co7lczglra)
+<img src="assets/newgame.svg" alt="New game. My old projects are safe. New ones are loading." width="720" />
+
+<img src="assets/start.svg" alt="Press start" width="720" />
+
+<a href="https://twitter.com/stedeus"><img src="assets/btn-twitter.svg" alt="Twitter" height="48" /></a>
+<a href="https://instagram.com/deusfps"><img src="assets/btn-instagram.svg" alt="Instagram" height="48" /></a>
+<a href="https://www.youtube.com/c/33deus"><img src="assets/btn-youtube.svg" alt="YouTube" height="48" /></a>
+<a href="https://open.spotify.com/user/31gp3ekfbpke5il7w3co7lczglra"><img src="assets/btn-spotify.svg" alt="Spotify" height="48" /></a>
+
+</div>
