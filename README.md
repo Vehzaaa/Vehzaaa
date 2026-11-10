@@ -1,4 +1,5 @@
-<div align="center"><img src="https://preview.redd.it/heracles-alcides-from-the-fate-series-v0-xthyd3b00l9e1.jpg?width=640&crop=smart&auto=webp&s=0eaa2af090678e12c920c2059d5ce193f469c664" width="260" alt="Alcides — Fate" />Vezo
+<div align="center"><img src="https://preview.redd.it/heracles-alcides-from-the-fate-series-v0-xthyd3b00l9e1.jpg?width=640&crop=smart&auto=webp&s=0eaa2af090678e12c920c2059d5ce193f469c664" width="260" alt="Alcides — Fate" />
+Vezo
 
 Systems programming · Computer graphics · Game development
 
