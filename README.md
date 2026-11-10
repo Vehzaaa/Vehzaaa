@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Vezo, systems programmer. A Game Boy-style pixel scene of granite hills, acacia trees and a moon." width="100%" />
+<img src="assets/vezo-gameboy.svg" alt="Vezo, systems programmer. A Game Boy-style pixel scene of granite hills, acacia trees and a moon." width="100%" />
 
 I like computers, particularly the parts of computing that most people don't have to think about.
 
